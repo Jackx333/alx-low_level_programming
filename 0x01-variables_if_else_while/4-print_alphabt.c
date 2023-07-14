@@ -13,6 +13,7 @@ int main(void)
 	{
 		if (lowlet == 'e' || lowlet == 'q')
 		{
+			lowlet++;
 			continue;
 		}
 		putchar (lowlet);
