@@ -17,7 +17,7 @@ int main(void)
 			continue;
 		}
 
-		putchar (num + 48);
+		putchar (num);
 		putchar (',');
 		putchar (' ');
 		num++;
