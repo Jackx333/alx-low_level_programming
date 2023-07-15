@@ -6,13 +6,9 @@
  */
 int main(void)
 {
-	int num;
-
-	num = 0;
-	while(num < 10)
+	for (int n = 0; n < 10; n++)
 	{
-		putchar (num);
-		num++;
+		putchar (n + 48);
 	}
 	putchar ('\n');
 	return (0);
