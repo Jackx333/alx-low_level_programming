@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int letter ;
+	int letter;
 
 	letter = 'z';
 
