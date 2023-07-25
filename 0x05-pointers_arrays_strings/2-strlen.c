@@ -3,7 +3,7 @@
 /**
  *_strlen -  returns the length of a string
  *
- *@s: int string paramater input
+ *@s: input int  string paramater 
  *
  *Return : length of string
 */
