@@ -3,9 +3,9 @@
 /**
  *_strlen -  returns the length of a string
  *
- *@s: input int  string paramater 
+ *@s : string paramater input
  *
- *Return : length of string
+ *Return :int length of string
 */
 
 int _strlen(char *s)
