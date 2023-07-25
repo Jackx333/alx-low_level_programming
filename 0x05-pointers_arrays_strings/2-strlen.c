@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- * _strlen -  returns the length of a string
- *
- * @s: the string to get the length of
- *
- * return: the length of @s.
-*/
+ * main - Entry point
+ * 
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ * 
+ * Return: Always 0 (Success)
+ */
 
 int _strlen(char *s)
 {
