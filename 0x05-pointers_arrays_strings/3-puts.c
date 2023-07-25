@@ -4,7 +4,7 @@
  * @str: string parameter to print
  * Returns Nothing
  *
- * */
+ */
 void _puts(char *str)
 {
 	while (*str != '\0')
